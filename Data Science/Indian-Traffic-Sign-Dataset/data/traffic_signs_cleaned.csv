@@ -1,0 +1,53 @@
+ClassId,Name
+0,Give way
+1,No entry
+2,One-way traffic
+3,No vehicles in both directions
+4,No entry for cycles
+5,No entry for goods vehicles
+6,No entry for pedestrians
+7,No entry for bullock carts
+8,No entry for hand carts
+9,No entry for motor vehicles
+10,Height limit
+11,Weight limit
+12,Axle weight limit
+13,Length limit
+14,No left turn
+15,No right turn
+16,No overtaking
+17,Maximum speed limit (90 km/h)
+18,Maximum speed limit (110 km/h)
+19,Horn prohibited
+20,No parking
+21,No stopping
+22,Turn left
+23,Turn right
+24,Steep descent
+25,Steep ascent
+26,Narrow road
+27,Narrow bridge
+28,Unprotected quay
+29,Road hump
+30,Dip
+31,Loose gravel
+32,Falling rocks
+33,Cattle
+34,Crossroads
+35,Side road junction
+36,Oblique side road junction
+37,T-junction
+38,Y-junction
+39,Staggered side road junction
+40,Roundabout
+41,Guarded level crossing ahead
+42,Unguarded level crossing ahead
+43,Level crossing countdown marker
+44,Parking
+45,Bus stop
+46,First aid post
+47,Telephone
+48,Filling station
+49,Hotel
+50,Restaurant
+51,Refreshments
