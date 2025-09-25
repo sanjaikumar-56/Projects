@@ -1,0 +1,21 @@
+scraping:
+  delay: 2
+  retries: 3
+  user_agents: 
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+ml:
+  models:
+    - random_forest
+    - xgboost
+    - neural_network
+  test_size: 0.2
+  cross_validation: 5
+
+websites:
+  amazon:
+    enabled: true
+    base_url: "https://www.amazon.com"
+  flipkart:
+    enabled: true
+    base_url: "https://www.flipkart.com"
