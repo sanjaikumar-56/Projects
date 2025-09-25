@@ -13,6 +13,6 @@ A CNN-based traffic sign classification system using deep learning to identify a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Indian-Traffic-Sign-Dataset.git
+git clone https://github.com/sanjaikumar-56/Indian-Traffic-Sign-Dataset.git
 cd Indian-Traffic-Sign-Dataset
 
